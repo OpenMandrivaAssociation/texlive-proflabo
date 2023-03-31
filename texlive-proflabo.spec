@@ -1,6 +1,6 @@
 Name:		texlive-proflabo
 Version:	63147
-Release:	1
+Release:	2
 Summary:	Draw laboratory equipment
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/proflabo
