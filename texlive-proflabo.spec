@@ -3,7 +3,7 @@ Version:	63147
 Release:	2
 Summary:	Draw laboratory equipment
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/proflabo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/proflabo
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/proflabo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/proflabo.doc.r%{version}.tar.xz
